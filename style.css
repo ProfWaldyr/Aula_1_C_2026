@@ -1,0 +1,11 @@
+  body {
+
+    width: 100vw;
+    height: 100vh;
+    background-image: url('game-saber.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(3px);
+    
+}  
